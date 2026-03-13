@@ -43,14 +43,14 @@ This project was created as part of JavaScript practice to strengthen understand
 <li>Basic programming logic</li>
 <li>Frontend development fundamentals</li>
 <hr>
-<h3>🔮 Future Improvements</h3>
+<h3>🔮 Future Improvements :</h3>
 Possible future upgrades include:<br>
 <li>Advanced calculator UI</li>
 <li>Additional mathematical operations</li>
 <li>Responsive design with CSS</li>
 <li>Error handling and input validation</li>
 <hr>
-<h3>👨‍💻 Author</h3>
-<b>Mian Haseeb Nasir</b>
+<h3>👨‍💻 Author :</h3>
+<b>Mian Haseeb Nasir</b><br>
 Full Stack Developer | AI Enthusiast | Software Engineer<br>
 Founder (Upcoming) – Nova Stack Technologies<br>
